@@ -1,4 +1,4 @@
-# DataScience-class-demos
+# CSC2034: Data Science Class Demos
 A collection of basic data science python / pandas / scikit scripts for teaching purposes, a part of [Newcastle University's CSC2034 Module](https://www.ncl.ac.uk/undergraduate/modules/csc2034). This code is intended to be ran using Google Colab, for code to run locally, please see the [Canvas](canvas.ncl.ac.uk) module page (Newcastle University login required), although this repo does contain some fixes which are needed in that repo also, mostly filepath issues. 
 
 For running this code on Google Colab:
